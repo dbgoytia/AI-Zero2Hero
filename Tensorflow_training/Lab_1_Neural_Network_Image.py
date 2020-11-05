@@ -11,7 +11,6 @@
 # Taken from: https://github.com/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb
 
 
-
 import tensorflow as tf
 
 mnist = tf.keras.datasets.mnist
